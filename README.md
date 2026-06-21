@@ -1,7 +1,7 @@
 # 🌉 ChatBridge
 
 <p align="center">
-  <img src="assets/banner.png" alt="ChatBridge Banner" width="100%">
+  <img src="assets/banner.gif" alt="ChatBridge Banner" width="100%">
 </p>
 
 > **Two-way chat relay between Telegram and Discord.**  
