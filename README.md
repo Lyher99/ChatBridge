@@ -1,5 +1,9 @@
 # 🌉 ChatBridge
 
+<p align="center">
+  <img src="assets/banner.png" alt="ChatBridge Banner" width="100%">
+</p>
+
 > **Two-way chat relay between Telegram and Discord.**  
 > Messages sent in a Telegram group are instantly forwarded to a Discord channel — and vice versa.
 
