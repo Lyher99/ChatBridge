@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  chatbridge:
+    build: .
+    container_name: chatbridge
+    restart: unless-stopped
+    env_file:
+      - .env

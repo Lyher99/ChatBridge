@@ -68,8 +68,25 @@ DISCORD_CHANNEL_ID=123456789012345678
 
 ### 5. Run
 
+You can run the bot either directly with Python or using Docker.
+
+#### Option A: Run with Python
+
 ```bash
 python bridge.py
+```
+
+#### Option B: Run with Docker (Recommended)
+
+If you have Docker installed, you can easily run the bot in the background:
+
+```bash
+docker-compose up -d
+```
+
+To view logs:
+```bash
+docker-compose logs -f
 ```
 
 That's it. Messages now flow both ways. 🎉
