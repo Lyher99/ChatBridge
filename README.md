@@ -25,7 +25,7 @@
 ### 1. Clone
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ChatBridge.git
+git clone https://github.com/Lyher99/ChatBridge.git
 cd ChatBridge
 ```
 
@@ -143,5 +143,3 @@ MIT — do whatever you want with it.
 ---
 
 **Built with 🌉 by Lyher**
-# ChatBridge
-# ChatBridge
